@@ -1,0 +1,4 @@
+title: Simple Rust Template
+plan:
+- title: Rust Snippet
+  statement: statement.md
